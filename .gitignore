@@ -1,0 +1,56 @@
+# Android Studio 関連
+.idea/
+*.iml
+
+# ビルド成果物
+/build/
+*/build/
+
+# ログや一時ファイル
+*.log
+local.properties
+
+# OS固有
+.DS_Store
+Thumbs.db
+
+# Gradle キャッシュや一時ファイル
+.gradle/
+build/
+*/build/
+!gradle-wrapper.jar
+.gradle/
+**/build/
+
+# Kotlin のコンパイルファイル
+*.class
+
+# キャッシュやバックアップ
+*.apk
+*.ap_
+*.dex
+
+# NDK/CMakelists 関連
+.externalNativeBuild/
+.cxx/
+
+# その他一時的なファイル
+captures/
+outputs/
+
+# Android Studio 4.1以降の新しいキャッシュ
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Jetpack Compose 関連キャッシュ
+.idea/gradle.xml
+
+# VS Code使ってる場合
+.vscode/
+
+# test結果など
+test-results/

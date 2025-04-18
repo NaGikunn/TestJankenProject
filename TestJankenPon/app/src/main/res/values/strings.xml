@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="StartButtonLabel">スタート</string>
+    <string name="guButtonLabel">グー</string>
+    <string name="chokiButtonLabel">チョキ</string>
+    <string name="parButtonLabel">パー</string>
+    <string name="resutartlabel">リスタート</string>
+</resources>
